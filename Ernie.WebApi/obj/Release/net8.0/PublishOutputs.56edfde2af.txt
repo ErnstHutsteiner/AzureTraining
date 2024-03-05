@@ -1,0 +1,11 @@
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Ernie.WebApi
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/appsettings.json
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Ernie.WebApi.dll
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Ernie.WebApi.deps.json
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Ernie.WebApi.runtimeconfig.json
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Ernie.WebApi.pdb
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ernsth/Projects/AzureTraining/Ernie.WebApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

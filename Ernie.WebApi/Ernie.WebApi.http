@@ -1,0 +1,6 @@
+@Ernie.WebApi_HostAddress = http://localhost:5115
+
+GET {{Ernie.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
