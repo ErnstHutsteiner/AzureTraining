@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ernie.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e686947ad42f4f4856844a0b1fab7ca8683de6d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5e30b166ef42548c7517abb5e34159a9e1dc0b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ernie.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ernie.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
