@@ -1,0 +1,7 @@
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/BlazorApp
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/appsettings.json
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/BlazorApp.dll
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/BlazorApp.deps.json
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/BlazorApp.runtimeconfig.json
+/Users/ernsth/Projects/AzureTraining/BlazorApp/bin/Release/net8.0/publish/BlazorApp.pdb
