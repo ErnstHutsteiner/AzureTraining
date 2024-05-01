@@ -77,7 +77,18 @@ und ersetzen "Hello World" mit:
 
 5. Wir starten die Application lokal. Es sollte nun "Hallo Gfu" angezeigt werden.
 
+? Wenn wir jetzt unsere Applikation deployen. Würde diese über das Portal laufen? Nein! den dort fehlt die vorgenommene Konfiguration
+
 6. Wir tragen nun die Konfiguration im App Service ein:
+* Portal öffnen
+* App Service finden
+* dort auf "Environment Variables"
+* unter "App Settings" ein neues App Setting eintragen:
+- Name: WelcomeText
+- Value: Hallo Gfu
+* Speichern
+
+7. Wir deployen unsere Web App erneut. Läuft diese wie erwartet?
 
 
 
