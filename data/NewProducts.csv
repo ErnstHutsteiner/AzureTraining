@@ -1,0 +1,8 @@
+ProductId,ProductName,SupplierId,CategoryId,QuantityPerUnit,UnitPrice,UnitsInStock,UnitsOnOrder,ReorderLevel,Discontinued
+78,Resis Süsser Senf,3,2,12 - 12 oz jars,"40,00",6,0,0,0
+79,Fruchtkorb getrocknete Plfaumen,6,7,40 - 100 g pkgs.,"23,25",35,0,0,0
+80,Alte Birne Schnaps,6,2,24 - 250 ml bottles,"15,50",39,0,5,0
+81,Omas Kartoffelknödel,9,5,24 - 500 g pkgs.,"21,00",104,0,25,0
+82,Spaghetti Manfredo,11,3,100 - 250 g bags,"31,23",15,0,0,0
+83,Augustiner Edelstoff,12,1,24 - 0.5 l bottles,"7,75",125,0,25,0
+84,Original Frankfurter Aeppelwoi,12,2,12 boxes,"13,00",32,0,15,0
