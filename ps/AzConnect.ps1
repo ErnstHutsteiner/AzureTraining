@@ -18,17 +18,12 @@
     get-azsubscription   
     
     set context to bundlecheck subscription:
-    set-azcontext -Subscriptionid 94886bab-8135-4eec-8cb8-fb3889995cec
+    set-azcontext -Subscriptionid 94886bab-8135-4eec-8cb8-fb3889995xy
 
-    module used:
-    https://github.com/PlagueHO/CosmosDB#installation
+
 
 .VARIABLES
-    $RgName = name of the resource group
-    $CosmosAccount = account name of the cosmos db account
-    $CosmosDB = name of the database
-    $CollectionName = name of the collection
-    $WorkMode = ROOT or PARTNER
+
 
    
  .COMPONENT
