@@ -36,7 +36,7 @@ var clientOptions = new ServiceBusClientOptions()
 {
     TransportType = ServiceBusTransportType.AmqpWebSockets
 };
-client = new ServiceBusClient("Endpoint=sb://ernstgfusbus.servicebus.windows.net/;SharedAccessKeyName=listener;SharedAccessKey=GIj/QXRwPLGnaX/4p7qHf+ce0OxaQ1flF+ASbI9XdfE=;EntityPath=fancyq", clientOptions);
+client = new ServiceBusClient("<place connectio  string here", clientOptions);
 
 // create a processor that we can use to process the messages
 // TODO: Replace the <QUEUE-NAME> placeholder

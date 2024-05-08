@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj": {}
+    "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj": {}
   },
   "projects": {
-    "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj": {
+    "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj",
+        "projectUniqueName": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj",
         "projectName": "QueueSender",
-        "projectPath": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj",
+        "projectPath": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueSender/QueueSender.csproj",
         "packagesPath": "/Users/ernsth/.nuget/packages/",
-        "outputPath": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueSender/obj/",
+        "outputPath": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueSender/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ernsth/.nuget/NuGet/NuGet.Config"

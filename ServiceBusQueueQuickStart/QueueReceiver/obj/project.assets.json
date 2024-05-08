@@ -564,11 +564,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
+      "projectUniqueName": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
       "projectName": "QueueReceiver",
-      "projectPath": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
+      "projectPath": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
       "packagesPath": "/Users/ernsth/.nuget/packages/",
-      "outputPath": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueReceiver/obj/",
+      "outputPath": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueReceiver/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ernsth/.nuget/NuGet/NuGet.Config"

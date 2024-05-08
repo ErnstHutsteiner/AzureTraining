@@ -21,7 +21,7 @@ var clientOptions = new ServiceBusClientOptions()
 { 
     TransportType = ServiceBusTransportType.AmqpWebSockets
 };
-client = new ServiceBusClient("Endpoint=sb://ernstgfusbus.servicebus.windows.net/;SharedAccessKeyName=sender;SharedAccessKey=jzMmZYyciLWX01Qtmu/QmnhqRuD4R0rZB+ASbB6gjD0=;EntityPath=fancyq", clientOptions);
+client = new ServiceBusClient("<Connection String here", clientOptions);
 sender = client.CreateSender("fancyq");
 
 // create a batch 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9c9G6XHKIo83iq0quAX1euQ/3yK82lZXKJ9k/KjgHmE7gv9CKONQszhGY4jN6zYfqtN40DHiKXo+oomD7vR9LQ==",
+  "dgSpecHash": "Gj2Cb+WCbNb2dUshThfcPA8BOsydEQ05uVkPnHDi7fOiKMG4bk3eplFSFKJqeuWa8afcyLQoCt/gLLjfoAPEFg==",
   "success": true,
-  "projectFilePath": "/Users/ernsth/Projects/Experimental/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
+  "projectFilePath": "/Users/ernsth/Projects/AzureTraining/ServiceBusQueueQuickStart/QueueReceiver/QueueReceiver.csproj",
   "expectedPackageFiles": [
     "/Users/ernsth/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/ernsth/.nuget/packages/azure.core.amqp/1.3.0/azure.core.amqp.1.3.0.nupkg.sha512",
