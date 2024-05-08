@@ -21,7 +21,8 @@ var clientOptions = new ServiceBusClientOptions()
 { 
     TransportType = ServiceBusTransportType.AmqpWebSockets
 };
-client = new ServiceBusClient("<Connection String here", clientOptions);
+// uncomment und fill the next line
+// client = new ServiceBusClient("<replace with conn info here>", clientOptions);
 sender = client.CreateSender("fancyq");
 
 // create a batch 

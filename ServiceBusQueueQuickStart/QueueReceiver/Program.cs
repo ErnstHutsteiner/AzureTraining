@@ -36,7 +36,8 @@ var clientOptions = new ServiceBusClientOptions()
 {
     TransportType = ServiceBusTransportType.AmqpWebSockets
 };
-client = new ServiceBusClient("<place connectio  string here", clientOptions);
+// uncomment und fill the next line
+//client = new ServiceBusClient("<place conne info string here", clientOptions);
 
 // create a processor that we can use to process the messages
 // TODO: Replace the <QUEUE-NAME> placeholder
